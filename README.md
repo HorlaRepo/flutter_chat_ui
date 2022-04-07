@@ -1,15 +1,10 @@
 # chat_app_ui
 
-A new Flutter project.
+<img width="527" alt="chatui1" src="https://user-images.githubusercontent.com/32479488/162244533-8db77aba-2cee-4397-95d9-7ed09d133a15.png">
+<img width="530" alt="chatui2" src="https://user-images.githubusercontent.com/32479488/162244654-a5892407-2ca6-42ec-af6b-85fd6f9fc80a.png">
+<img width="543" alt="chatui3" src="https://user-images.githubusercontent.com/32479488/162244716-7da31bf3-5803-4221-933e-fd8db23b7221.png">
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
